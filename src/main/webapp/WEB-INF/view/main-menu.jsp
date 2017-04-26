@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 
 <body>
@@ -13,6 +14,9 @@
 
 <br><br>
 <a href="/customer/showForm">Customer form</a>
+
+<br><br>
+<a href="/tests">For tests (Для тестов)</a>
 
 </body>
 
